@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:brieb/metro-import-issue.git",
   "author": "Brie <723547+brieb@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "metro": "^0.64.0",
+    "metro-core": "^0.64.0"
+  }
 }
